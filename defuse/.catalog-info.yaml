@@ -17,4 +17,3 @@ spec:
   system: intents-protocol
   deployedAt:
     - contract:near/mainnet/intents.near
-
